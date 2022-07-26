@@ -29,10 +29,10 @@ Live [site](https://res-rev-front-end.herokuapp.com/dashboard)
 * Postgres 
 
 ## Screenshots: 
-![Dashboard](Dashboard.png)
-![Create-Res-before](Create-Res-before.png)
-![Create-res-after](Create-res-after.png)
-![Create-table-before](Create-table-before.png)
-![Create-table-after](Create-table-after.png)
-![Search-phone-num](Search-phone-num.png)
-![Cancel-res](Cancel-res.png)
+![Dashboard](FinalScreenshots/Dashboard.png)
+![Create-Res-before](FinalScreenshots/Create-Res-before.png)
+![Create-res-after](FinalScreenshots/Create-res-after.png)
+![Create-table-before](FinalScreenshots/Create-table-before.png)
+![Create-table-after](FinalScreenshots/Create-table-after.png)
+![Search-phone-num](FinalScreenshots/Search-phone-num.png)
+![Cancel-res](FinalScreenshots/Cancel-res.png)
