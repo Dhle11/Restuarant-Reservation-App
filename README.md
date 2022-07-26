@@ -1,6 +1,7 @@
-A restaurant's existing reservations can be tracked with this app. The app will show all reservations for today, and you can use the option to view reservations for upcoming dates. It offers an easy-to-use user interface for adding new tables and making changes to reservations. Users can utilize the search interface on their mobile device to look up all reservations, whether recent and old.
+This app is for restaurants. Users can create, update, view, delete reservations, as well as seat them at varius tables within the restaurant. An existing reservations can be tracked with this app. The app will show all reservations for today, and user able to view upcoming and previous date's reservations. User can adding new tables and seat a reservatio. Users can look up reservations by using the search function to look up customer's phone number.
 
-Live demo: 
+# Restaurant Reservation App
+Live site:
 
 
 ## Installation
@@ -28,3 +29,10 @@ Live demo:
 * Postgres 
 
 ## Screenshots: 
+![Dashboard](Dashboard.png)
+![Create-Res-before](Create-Res-before.png)
+![Create-res-after](Create-res-after.png)
+![Create-table-before](Create-table-before.png)
+![Create-table-after](Create-table-after.png)
+![Search-phone-num](Search-phone-num.png)
+![Cancel-res](Cancel-res.png)
