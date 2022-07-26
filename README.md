@@ -29,10 +29,17 @@ Live [site](https://res-rev-front-end.herokuapp.com/dashboard)
 * Postgres 
 
 ## Screenshots: 
-![Dashboard](FinalScreenshots/Dashboard.png)
-![Create-Res-before](FinalScreenshots/Create-Res-before.png)
-![Create-res-after](FinalScreenshots/Create-res-after.png)
-![Create-table-before](FinalScreenshots/Create-table-before.png)
-![Create-table-after](FinalScreenshots/Create-table-after.png)
-![Search-phone-num](FinalScreenshots/Search-phone-num.png)
-![Cancel-res](FinalScreenshots/Cancel-res.png)
+  Dashboard
+![Dashboard](screenshots/Dashboard.png)
+  Create a new reservation before
+![Create-Res-before](screenshots/Create-Res-before.png)
+  Create a new reservation after
+![Create-res-after](screenshots/Create-res-after.png)
+  Create a new table before
+![Create-table-before](screenshots/Create-table-before.png)
+  Create a new table after
+![Create-table-after](screenshots/Create-table-after.png)
+  Search for reservation using phone number
+![Search-phone-num](screenshots/Search-phone-num.png)
+  Cancel a reservation
+![Cancel-res](screenshots/Cancel-res.png)
